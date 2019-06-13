@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ClienteRemoto",
+            "request": "launch",
+            "mainClass": "ClienteRemoto"
+        }
+    ]
+}
